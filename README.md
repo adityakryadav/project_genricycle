@@ -133,6 +133,6 @@ project_genricycle/
 
 ## License
 
-Specify a license (e.g., MIT). Add a LICENSE file to formalize usage rights.
+Lisence @ FOT, University of Delhi
 
 
